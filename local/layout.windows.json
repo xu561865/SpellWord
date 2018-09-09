@@ -1,0 +1,103 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": 859,
+      "y": 23,
+      "width": 1283,
+      "height": 1320,
+      "layout": {
+        "children": [
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "hierarchy"
+                ],
+                "height": 590,
+                "type": "panel",
+                "width": 215.65625
+              },
+              {
+                "active": 0,
+                "children": [
+                  "assets"
+                ],
+                "height": 636,
+                "type": "panel",
+                "width": 215.65625
+              }
+            ],
+            "height": 1229,
+            "type": "dock-v",
+            "width": 215.65625
+          },
+          {
+            "active": 0,
+            "children": [
+              "inspector"
+            ],
+            "height": 1229,
+            "type": "panel",
+            "width": 304.703125
+          },
+          {
+            "children": [
+              {
+                "active": 1,
+                "children": [
+                  "node-library",
+                  "scene"
+                ],
+                "height": 735.984375,
+                "type": "panel",
+                "width": 750.625
+              },
+              {
+                "active": 0,
+                "children": [
+                  "console",
+                  "timeline"
+                ],
+                "height": 490,
+                "type": "panel",
+                "width": 750.625
+              }
+            ],
+            "height": 1229,
+            "type": "dock-v",
+            "width": 750.625
+          }
+        ],
+        "type": "dock-h"
+      },
+      "panels": [
+        "hierarchy",
+        "inspector",
+        "node-library",
+        "console",
+        "timeline",
+        "assets",
+        "scene"
+      ]
+    }
+  },
+  "panels": {
+    "builder": {
+      "x": 838,
+      "y": 224,
+      "width": 500,
+      "height": 765
+    },
+    "preferences": {
+      "x": 800,
+      "y": 454,
+      "width": 564,
+      "height": 548
+    }
+  }
+}

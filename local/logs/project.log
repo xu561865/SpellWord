@@ -1,0 +1,54 @@
+2018-09-09T06:55:46.520Z - normal: Load ~/.CocosCreator/settings.json
+2018-09-09T06:55:46.525Z - normal: checking language setting...
+2018-09-09T06:55:46.525Z - normal: Language: zh
+2018-09-09T06:55:47.042Z - success: protocol editor-framework registered
+2018-09-09T06:55:47.043Z - success: protocol app registered
+2018-09-09T06:55:47.043Z - success: protocol theme registered
+2018-09-09T06:55:47.043Z - success: protocol packages registered
+2018-09-09T06:55:47.043Z - success: protocol unpack registerred
+2018-09-09T06:55:47.044Z - success: protocol disable-commonjs registerred
+2018-09-09T06:55:47.173Z - normal: connected!
+2018-09-09T06:55:47.176Z - normal: Check project /Users/xuyi/Program/SpellWord.git
+2018-09-09T06:55:47.179Z - normal: Initializing project /Users/xuyi/Program/SpellWord.git
+2018-09-09T06:55:47.183Z - normal: Initializing Cocos2d
+2018-09-09T06:55:47.816Z - normal: Initializing Asset Database
+2018-09-09T06:55:47.863Z - success: protocol uuid registerred
+2018-09-09T06:55:47.863Z - success: protocol db registerred
+2018-09-09T06:55:47.863Z - success: protocol thumbnail registerred
+2018-09-09T06:55:47.864Z - normal: Loading editor/builtin packages
+2018-09-09T06:55:48.009Z - success: assets loaded
+2018-09-09T06:55:48.014Z - success: builder loaded
+2018-09-09T06:55:48.016Z - success: cocos-analytics loaded
+2018-09-09T06:55:48.020Z - success: console loaded
+2018-09-09T06:55:48.053Z - success: fb-instant-games loaded
+2018-09-09T06:55:48.059Z - success: hierarchy loaded
+2018-09-09T06:55:48.063Z - success: inspector loaded
+2018-09-09T06:55:48.064Z - success: keystore loaded
+2018-09-09T06:55:48.069Z - success: node-library loaded
+2018-09-09T06:55:48.071Z - success: package-asset loaded
+2018-09-09T06:55:48.073Z - success: preferences loaded
+2018-09-09T06:55:48.077Z - success: project-exporter loaded
+2018-09-09T06:55:48.094Z - success: project-importer loaded
+2018-09-09T06:55:48.097Z - success: project-settings loaded
+2018-09-09T06:55:48.104Z - success: ui-kit loaded
+2018-09-09T06:55:48.108Z - success: scene loaded
+2018-09-09T06:55:48.109Z - success: sprite-editor loaded
+2018-09-09T06:55:48.114Z - success: store loaded
+2018-09-09T06:55:48.120Z - success: timeline loaded
+2018-09-09T06:55:48.120Z - normal: Loading builtin packages
+2018-09-09T06:55:48.125Z - success: asset-db-debugger loaded
+2018-09-09T06:55:48.127Z - success: color-picker loaded
+2018-09-09T06:55:48.130Z - success: jsb-adapter loaded
+2018-09-09T06:55:48.135Z - success: package-manager loaded
+2018-09-09T06:55:48.270Z - success: qqplay-adapter loaded
+2018-09-09T06:55:48.278Z - success: sdkbox loaded
+2018-09-09T06:55:48.284Z - success: tester loaded
+2018-09-09T06:55:48.291Z - success: ui-grid loaded
+2018-09-09T06:55:48.297Z - success: ui-kit-preview-extra loaded
+2018-09-09T06:55:48.301Z - success: ui-kit-preview loaded
+2018-09-09T06:55:48.306Z - success: ui-tree loaded
+2018-09-09T06:55:48.307Z - success: weapp-adapter loaded
+2018-09-09T06:55:49.209Z - normal: Loading packages
+2018-09-09T06:55:49.215Z - normal: Watching packages
+2018-09-09T06:55:49.302Z - normal: Run Application
+2018-09-09T06:55:49.889Z - success: preview server running at http://localhost:7456
